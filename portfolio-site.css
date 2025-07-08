@@ -50,6 +50,7 @@ body {
   }
   
   .button {
+    overflow: hidden;
     padding: 10px 20px;
     background: linear-gradient(90deg, #a445b2, #fa4299);
     color: white;
@@ -65,7 +66,6 @@ body {
   }
   
   .hero-text {
-    position: absolute;
     z-index: 1;
     padding: 100px 40px;
     justify-content: center;
