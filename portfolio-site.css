@@ -68,6 +68,7 @@ body {
     position: absolute;
     z-index: 1;
     padding: 100px 40px;
+    justify-content: center;
     text-align: center;
     color: white;
   }
