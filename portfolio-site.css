@@ -71,6 +71,7 @@ body {
   .hero-text {
     position: absolute;
     z-index: 1;
+    margin-left: 200px;
     padding: 100px 40px;
     justify-content: center;
     text-align: center;
